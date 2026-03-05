@@ -1,2 +1,2 @@
-# My-Page-Cool
+# My-Page
 My first personal page i will be using to learn new code.
