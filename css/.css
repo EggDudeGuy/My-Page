@@ -1,0 +1,28 @@
+ body {
+        background-color: #121212;
+        color: #e0e0e0;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+        padding: 20px;
+    }
+
+    header, article, section {
+        background-color: #1e1e1e;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 10px;
+    }
+
+    h1, h2, h3 {
+        color: #90caf9;
+    }
+
+    img {
+        display: block;
+        margin: 0 auto;
+        border-radius: 10px;
+    }
+
+    ul {
+        list-style-type: square;
+    }
